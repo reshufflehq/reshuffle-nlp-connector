@@ -2,8 +2,8 @@ import { Reshuffle, BaseConnector } from 'reshuffle-base-connector'
 import { SentimentAnalyzer, Language } from 'node-nlp'
 
 export default class NlpConnector extends BaseConnector<null, null> {
-  constructor(app: Reshuffle) {
-    super(app)
+  constructor(app: Reshuffle, id?: string) {
+    super(app, null, id)
   }
 
   private static emojis: {
