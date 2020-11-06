@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/reshufflehq/reshuffle-nlp-connector#readme",
   "dependencies": {
-    "node-nlp": "^4.10.7",
+    "node-nlp": "^4.15.0",
     "reshuffle-base-connector": "^0.0.11"
   },
   "devDependencies": {
