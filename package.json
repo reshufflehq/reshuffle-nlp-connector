@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/reshufflehq/reshuffle-nlp-connector#readme",
   "dependencies": {
-    "node-nlp": "^4.10.7",
-    "reshuffle-base-connector": "^0.0.10"
+    "node-nlp": "^4.15.0",
+    "reshuffle-base-connector": "^0.0.11"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^3.10.1",
