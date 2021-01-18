@@ -4,7 +4,7 @@
 
 `npm install reshuffle-nlp-connector`
 
-This is a [Reshuffle](https://dev.reshuffle.com) connector that provides language detection and sentiment analysis.
+This is a [Reshuffle](https://github.com/reshufflehq/reshuffle) connector that provides language detection and sentiment analysis.
  
 
 #### Connector events
